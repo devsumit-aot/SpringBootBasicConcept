@@ -6,4 +6,5 @@
 4) Table join
 5) Jackson Annotation
 6) Custom Query
-7) 
+7) Read message from kafka
+8) Microservices communication using fall back mechanism
